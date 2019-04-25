@@ -1,2 +1,6 @@
 Test file1
+<<<<<<< HEAD
 Branched edit
+=======
+Hotfix changes
+>>>>>>> hotfix_branch
